@@ -31,7 +31,7 @@ A simple and minimal **Paste Manager App** built using **React** and **Redux**, 
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 Paste App Screenshot :-
 
