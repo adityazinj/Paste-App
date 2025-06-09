@@ -43,7 +43,7 @@ Paste App Screenshot :-
 
 1. **Clone the repository:**
 
-  git clone https://github.com/your-username/paste-app.git
+  git clone https://github.com/your-username/paste-app.git <br/>
   cd paste-app
 
 
