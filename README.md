@@ -43,21 +43,16 @@ Paste App Screenshot :-
 
 1. **Clone the repository:**
 
-  git clone https://github.com/your-username/paste-app.git <br/>
-  cd paste-app
+    git clone https://github.com/your-username/paste-app.git <br/>
+    cd paste-app
 
 
 2. **Install dependencies:**
 
-  npm install
+    npm install
 
 3. **Start the development server:**
 
-  npm run dev
+    npm run dev
 
 4. **Visit in browser:**
-
-
-
-Author
-adityazinj
