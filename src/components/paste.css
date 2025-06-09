@@ -1,0 +1,15 @@
+.editButton{
+  color: white;
+}
+.viewButton{
+    color:white;
+}
+.deleteButton{
+    background-color:red;
+}
+.copyButton{
+    background-color: #F59E0B;
+}
+.shareButton{
+    background-color: #10B981;
+}
